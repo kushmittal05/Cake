@@ -1,2 +1,1 @@
-# Cake
-Ingredients and steps for a red velvet cake
+This is a recipe for a Red Velvet cake.
